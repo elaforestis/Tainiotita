@@ -22,6 +22,6 @@ Tainiotita - A local movie database in Java
 </br>
   <h3>Series Mode</h3>
   </br>
-<img src="Tainiotita-Screenshots/4.png" alt="hi" class="inline"/>
+<img src="Tainiotita-Screenshots/5.png" alt="hi" class="inline"/>
   </body>
 </html>
